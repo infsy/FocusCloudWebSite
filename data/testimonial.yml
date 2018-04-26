@@ -1,0 +1,40 @@
+enable: true
+title: Quelques chiffres sur nous
+paragraph: >
+        Lorsque les 2 fondateurs de FocusCloud se sont rencontrés, un sujet en particulier les à réuni ; celui de la rupture technologique et fonctionnelle que représente les fournisseurs de Cloud Publiques tels que AWS ou Azure. Cette passion s'est concrétisé par la création de FocusCloud. 
+
+numbers:
+  - icon: ion-ios-chatboxes-outline
+    counter: 2500
+    text: Tasses de cafés depuis le début
+  - icon: ion-ios-glasses-outline
+    counter: 6  
+    text: Certifications au moins par employé
+  - icon: ion-ios-compose-outline
+    counter: 15
+    text: Années d'expérience minimum
+  - icon: ion-ios-timer-outline
+    counter: 36
+    text: Nombre d'heures dans nos journées
+
+people:
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher

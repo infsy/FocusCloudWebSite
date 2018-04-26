@@ -5,39 +5,35 @@ theme = "airspace-hugo"
 
 [menu]
 
-  [[menu.header]]
-    weight = 2
-    name = "Work"
-    url = "/work"
+#  [[menu.header]]
+#    weight = 2
+#    name = "Work"
+#    url = "/work"
   [[menu.header]]
     weight = 3
     name = "Blog"
     url = "/blog"
   [[menu.header]]
     weight = 4
-    name = "Service"
-    url = "#"
+    name = "Services"
+    url = "/service"
   [[menu.header]]
     weight = 5
     name = "Contact"
     url = "/contact"
 
-  [[menu.footer]]
-    weight = 1
-    name = "A notre sujet"
-    url = "#"
+#  [[menu.footer]]
+#    weight = 1
+#    name = "A notre sujet"
+#    url = "#"
   [[menu.footer]]
     weight = 2
     name = "Nous contacter"
-    url = "#"
+    url = "/contact"
   [[menu.footer]]
     weight = 3
     name = "Blog"
-    url = "#"
-  [[menu.footer]]
-    weight = 4
-    name = "Termes"
-    url = "#"
+    url = "/blog"
 
 # The site's parameters
 [params]
@@ -48,7 +44,7 @@ theme = "airspace-hugo"
 
   date_format = "6 January 2006"
 
-  home = "Home"
+  home = "Accueil"
 
   [params.slider]
     enable = true
@@ -63,36 +59,36 @@ theme = "airspace-hugo"
 
   [params.blog]
     enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
+    title = "Prenez connaissance du meilleur de ce qu'on fait"
+    subtitle = "La meilleure manière de rester en contact"
 
   [params.feature]
     enable = true
     title = "Nous nous concentrons sur le meilleur"
     content = "La notion d'infonuagique est souvent mal comprise. En ce qui nous concerne, la définition est claire et correspond à celle fournie par la Cloud Security Alliance (CSA). Pour qu'un fournisseur puisse prétendre fournir de l'infonuagique, ses ressources doivent être consommable à la demande en libre-service, doit être accessible depuis n'importe où sur Internet, partageables librement entre utilisateurs, offrir une élasticité rapide, et enfin être facturable selon leur consommation à la demande et non selon des forfaits.<br/> " 
-    [params.feature.button]
-      caption = "Voir un exemple"
-      url = "#"
+   # [params.feature.button]
+   #   caption = "Voir un exemple"
+   #   url = "#"
 
   [params.call]
     enable = true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "Nous travaillons en permanence pour vous offrir la meilleure expérience Cloud"
+    paragraph = "Renseignez vous sur notre travail et notre réputation. Venez nous rencontrer et découvrez à quel point notre focus est en permanence axé sur le Cloud publique et tous ses bénéfices que l'on désire vous faire connaitre."
 
   [params.contact]
     enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    title = "Laissez nous un message"
+    subtitle = "N'hésitez pas à nous demander des exemples de réalisations passées"
     [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
+      name = "Votre nom"
+      email = "Votre courriel"
+      subject = "Le sujet"
+      message = "Votre message"
+      button = "Envoyer message"
     [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
+      title = "Passez nous voir"
+      address = "830, rue Eymard G1S4A1 Quebec, Canada"
+      email = "Email: contact@focuscloud.ca"
+      phone = "Phone: +1 581 999 2940"
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"

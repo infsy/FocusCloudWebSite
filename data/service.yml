@@ -1,0 +1,25 @@
+enable: true
+title: Nos Services
+subtitle: >
+ Notre offre de service se veut volontairement simple et extrèmement claire. Parce que vous n'avez pas de temps à perdre et savez ce que vous voulez obtenir comme résultat, nous nous chargeons de sélectionner les compétences et les outils nécessaires pour votre aboutir à votre succès 
+content:
+
+  - icon: ion-coffee
+    name: Projets d'infrastructure
+    text: >
+      Envie de monter tout ou une partie de votre infrastructure dans le Cloud, on s'en charge
+
+  - icon: ion-compass
+    name: Sécurisation et Audits
+    text: >
+      Parce que les plate-formes Cloud n'ont pas les même caractéristiques de sécurité que celles internes, il vous faut des auditeurs spécialisés
+
+  - icon: ion-image
+    name: Optimisation de vos infrastructures
+    text: >
+      Avoir son infrastructure dans le Cloud ne signifie pas pour autant qu'elle est optimisée pour. C'est ce que l'on vous propse de faire.
+
+  - icon: ion-bug
+    name: Infogérance de vos plate-formes Cloud
+    text: >
+      Nous offrons un support 24/24 pour s'assurer que votre infrastructure est en santé
