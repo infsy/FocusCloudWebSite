@@ -1,7 +1,7 @@
 enable: true
 title: Quelques chiffres sur nous
 paragraph: >
-        Lorsque les 2 fondateurs de FocusCloud se sont rencontrés, un sujet en particulier les à réuni ; celui de la rupture technologique et fonctionnelle que représente les fournisseurs de Cloud Publiques tels que AWS ou Azure. Cette passion s'est concrétisé par la création de FocusCloud. 
+        Lorsque les 2 fondateurs de FocusCloud se sont rencontrés, un sujet en particulier les a réuni ; celui de la rupture technologique et fonctionnelle que représente les fournisseurs de Cloud Publiques tels que AWS ou Azure. Cette passion s'est concrétisé par la création de FocusCloud. 
 
 numbers:
   - icon: ion-ios-chatboxes-outline
@@ -19,22 +19,17 @@ numbers:
 
 people:
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+      Cette company est dangereuse car elle vous écartera du côté obscur de l'hébergement et de son seigneur VMWare...
+    image: img/dark.jpg
+    name: Dark Vader
+    role: CEO BlackStar Inc.
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+      Celui dont les moyens égalent l'audace ne connaît pas plus de bornes que d'obstacles dans ses entreprises.
+    image: img/joseph.jpg
+    name: Joseph Sanial-Dubay
+    role: Écrivain
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
-  - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+      The sun always shines above the clouds
+    image: img/paul.jpg
+    name: Paul F. Davis
+    role: Écrivain
